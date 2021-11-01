@@ -1,98 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://ikingye.github.io/study-c/docs/basic/practice/</loc>
     <lastmod>2020-08-04T23:50:50+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ikingye.github.io/study-c/docs/basic/</loc>
     <lastmod>2020-08-04T23:50:50+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ikingye.github.io/study-c/docs/basic/practice/spec/</loc>
     <lastmod>2020-03-08T22:06:57+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ikingye.github.io/study-c/docs/basic/grammar/</loc>
     <lastmod>2020-08-04T23:50:50+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ikingye.github.io/study-c/docs/appendix/interview/basic/</loc>
     <lastmod>2020-08-04T23:50:50+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ikingye.github.io/study-c/docs/design/</loc>
     <lastmod>2020-03-08T22:06:57+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ikingye.github.io/study-c/docs/appendix/interview/advanced/</loc>
     <lastmod>2020-08-04T23:50:50+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ikingye.github.io/study-c/docs/source/</loc>
     <lastmod>2020-03-08T22:06:57+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ikingye.github.io/study-c/docs/appendix/interview/expert/</loc>
     <lastmod>2020-08-04T23:50:50+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ikingye.github.io/study-c/docs/appendix/</loc>
     <lastmod>2020-08-04T23:50:50+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ikingye.github.io/study-c/docs/appendix/tutorial/</loc>
     <lastmod>2020-08-04T23:50:50+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ikingye.github.io/study-c/docs/basic/grammar/vs-cpp/</loc>
     <lastmod>2020-08-04T23:50:50+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ikingye.github.io/study-c/docs/appendix/interview/</loc>
     <lastmod>2020-08-04T23:50:50+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ikingye.github.io/study-c/docs/appendix/attention/</loc>
     <lastmod>2020-08-04T23:50:50+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ikingye.github.io/study-c/docs/basic/snippet/</loc>
     <lastmod>2020-08-04T23:50:50+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ikingye.github.io/study-c/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ikingye.github.io/study-c/docs/</loc>
     <lastmod>2020-08-04T23:50:50+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ikingye.github.io/study-c/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ikingye.github.io/study-c/</loc>
     <lastmod>2020-03-08T22:06:57+08:00</lastmod>
   </url>
-  
 </urlset>
