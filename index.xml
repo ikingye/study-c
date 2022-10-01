@@ -11,7 +11,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kingye.me/study-c/docs/appendix/interview/basic/</guid>
-      <description>基础面试题 #  </description>
+      <description> 基础面试题 # </description>
     </item>
     
     <item>
@@ -20,7 +20,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kingye.me/study-c/docs/appendix/interview/advanced/</guid>
-      <description>进阶面试题 #  </description>
+      <description> 进阶面试题 # </description>
     </item>
     
     <item>
@@ -29,7 +29,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kingye.me/study-c/docs/appendix/interview/expert/</guid>
-      <description>高阶面试题 #  </description>
+      <description> 高阶面试题 # </description>
     </item>
     
     <item>
@@ -38,7 +38,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kingye.me/study-c/docs/basic/grammar/vs-cpp/</guid>
-      <description>C 语言与 C++ 的差异 #  参考：C++ 学习笔记</description>
+      <description>C 语言与 C++ 的差异 # 参考：C++ 学习笔记</description>
     </item>
     
     <item>
@@ -47,8 +47,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kingye.me/study-c/docs/appendix/attention/</guid>
-      <description>关注项目 #  torvalds/linux #  Linux kernel source tree
-antirez/redis #  Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. http://redis.io</description>
+      <description>关注项目 # torvalds/linux # Linux kernel source tree
+antirez/redis # Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. http://redis.io</description>
     </item>
     
   </channel>
