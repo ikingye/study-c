@@ -4,15 +4,15 @@
     <title>语法 on C 学习笔记</title>
     <link>https://kingye.me/study-c/docs/basic/grammar/</link>
     <description>Recent content in 语法 on C 学习笔记</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://kingye.me/study-c/docs/basic/grammar/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://kingye.me/study-c/docs/basic/grammar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>与 C&#43;&#43; 的差异</title>
       <link>https://kingye.me/study-c/docs/basic/grammar/vs-cpp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://kingye.me/study-c/docs/basic/grammar/vs-cpp/</guid>
-      <description>C 语言与 C++ 的差异 #  参考：C++ 学习笔记</description>
+      <description>C 语言与 C++ 的差异 # 参考：C++ 学习笔记</description>
     </item>
-    
   </channel>
 </rss>
