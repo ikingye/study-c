@@ -1,40 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>第四部分 附录 on C 学习笔记</title><link>https://kingye.me/study-c/docs/appendix/</link><description>Recent content in 第四部分 附录 on C 学习笔记</description><generator>Hugo</generator><language>en</language><atom:link href="https://kingye.me/study-c/docs/appendix/index.xml" rel="self" type="application/rss+xml"/><item><title>4.1 教程</title><link>https://kingye.me/study-c/docs/appendix/tutorial/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kingye.me/study-c/docs/appendix/tutorial/</guid><description>&lt;h1 id="教程">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>第四部分 附录 on C 学习笔记</title><link>https://kingye.me/study-c/docs/appendix/</link><description>Recent content in 第四部分 附录 on C 学习笔记</description><generator>Hugo</generator><language>en</language><atom:link href="https://kingye.me/study-c/docs/appendix/index.xml" rel="self" type="application/rss+xml"/><item><title>4.1 教程</title><link>https://kingye.me/study-c/docs/appendix/tutorial/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kingye.me/study-c/docs/appendix/tutorial/</guid><description>&lt;h1 id="教程"&gt;
  教程
- &lt;a class="anchor" href="#%e6%95%99%e7%a8%8b">#&lt;/a>
-&lt;/h1>
-&lt;h2 id="基础">
+ 
+ &lt;a class="anchor" href="#%e6%95%99%e7%a8%8b"&gt;#&lt;/a&gt;
+ 
+&lt;/h1&gt;
+&lt;h2 id="基础"&gt;
  基础
- &lt;a class="anchor" href="#%e5%9f%ba%e7%a1%80">#&lt;/a>
-&lt;/h2>
-&lt;h3 id="learn-c-in-y-minuteshttpslearnxinyminutescomdocszh-cnc-cn">
- &lt;a href="https://learnxinyminutes.com/docs/zh-cn/c-cn/">learn c in y minutes&lt;/a>
- &lt;a class="anchor" href="#learn-c-in-y-minuteshttpslearnxinyminutescomdocszh-cnc-cn">#&lt;/a>
-&lt;/h3>
-&lt;h3 id="c11-程序设计及相关工具使用---雨痕httpswwwyuquecomqyuhenc11">
- &lt;a href="https://www.yuque.com/qyuhen/c11">C11 程序设计，及相关工具使用 - 雨痕&lt;/a>
- &lt;a class="anchor" href="#c11-%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e7%9b%b8%e5%85%b3%e5%b7%a5%e5%85%b7%e4%bd%bf%e7%94%a8---%e9%9b%a8%e7%97%95httpswwwyuquecomqyuhenc11">#&lt;/a>
-&lt;/h3>
-&lt;hr>
-&lt;h2 id="进阶">
+ 
+ &lt;a class="anchor" href="#%e5%9f%ba%e7%a1%80"&gt;#&lt;/a&gt;
+ 
+&lt;/h2&gt;
+&lt;h3 id="learn-c-in-y-minutes"&gt;
+ &lt;a href="https://learnxinyminutes.com/docs/zh-cn/c-cn/"&gt;learn c in y minutes&lt;/a&gt;
+ 
+ &lt;a class="anchor" href="#learn-c-in-y-minutes"&gt;#&lt;/a&gt;
+ 
+&lt;/h3&gt;
+&lt;h3 id="c11-程序设计及相关工具使用---雨痕"&gt;
+ &lt;a href="https://www.yuque.com/qyuhen/c11"&gt;C11 程序设计，及相关工具使用 - 雨痕&lt;/a&gt;
+ 
+ &lt;a class="anchor" href="#c11-%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e7%9b%b8%e5%85%b3%e5%b7%a5%e5%85%b7%e4%bd%bf%e7%94%a8---%e9%9b%a8%e7%97%95"&gt;#&lt;/a&gt;
+ 
+&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h2 id="进阶"&gt;
  进阶
- &lt;a class="anchor" href="#%e8%bf%9b%e9%98%b6">#&lt;/a>
-&lt;/h2>
-&lt;h3 id="build-your-own-lisphttpsbuildyourownlispcom">
- &lt;a href="https://buildyourownlisp.com/">Build Your Own Lisp&lt;/a>
- &lt;a class="anchor" href="#build-your-own-lisphttpsbuildyourownlispcom">#&lt;/a>
-&lt;/h3>
-&lt;p>&lt;a href="https://buildyourownlisp.com/contents">在线阅读&lt;/a>&lt;/p></description></item><item><title>4.3 关注项目</title><link>https://kingye.me/study-c/docs/appendix/attention/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kingye.me/study-c/docs/appendix/attention/</guid><description>&lt;h1 id="关注项目">
+ 
+ &lt;a class="anchor" href="#%e8%bf%9b%e9%98%b6"&gt;#&lt;/a&gt;
+ 
+&lt;/h2&gt;
+&lt;h3 id="build-your-own-lisp"&gt;
+ &lt;a href="https://buildyourownlisp.com/"&gt;Build Your Own Lisp&lt;/a&gt;
+ 
+ &lt;a class="anchor" href="#build-your-own-lisp"&gt;#&lt;/a&gt;
+ 
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://buildyourownlisp.com/contents"&gt;在线阅读&lt;/a&gt;&lt;/p&gt;</description></item><item><title>4.3 关注项目</title><link>https://kingye.me/study-c/docs/appendix/attention/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kingye.me/study-c/docs/appendix/attention/</guid><description>&lt;h1 id="关注项目"&gt;
  关注项目
- &lt;a class="anchor" href="#%e5%85%b3%e6%b3%a8%e9%a1%b9%e7%9b%ae">#&lt;/a>
-&lt;/h1>
-&lt;h2 id="torvaldslinuxhttpsgithubcomtorvaldslinux-github-starshttpsimgshieldsiogithubstarstorvaldslinuxsvg">
- &lt;a href="https://github.com/torvalds/linux">torvalds/linux&lt;/a> &lt;img src="https://img.shields.io/github/stars/torvalds/linux.svg" alt="Github stars" />
- &lt;a class="anchor" href="#torvaldslinuxhttpsgithubcomtorvaldslinux-github-starshttpsimgshieldsiogithubstarstorvaldslinuxsvg">#&lt;/a>
-&lt;/h2>
-&lt;p>Linux kernel source tree&lt;/p>
-&lt;h2 id="antirezredishttpsgithubcomantirezredis-github-starshttpsimgshieldsiogithubstarsantirezredissvg">
- &lt;a href="https://github.com/antirez/redis">antirez/redis&lt;/a> &lt;img src="https://img.shields.io/github/stars/antirez/redis.svg" alt="Github stars" />
- &lt;a class="anchor" href="#antirezredishttpsgithubcomantirezredis-github-starshttpsimgshieldsiogithubstarsantirezredissvg">#&lt;/a>
-&lt;/h2>
-&lt;p>Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
-&lt;a href="http://redis.io">http://redis.io&lt;/a>&lt;/p></description></item></channel></rss>
+ 
+ &lt;a class="anchor" href="#%e5%85%b3%e6%b3%a8%e9%a1%b9%e7%9b%ae"&gt;#&lt;/a&gt;
+ 
+&lt;/h1&gt;
+&lt;h2 id="torvaldslinux-github-stars"&gt;
+ &lt;a href="https://github.com/torvalds/linux"&gt;torvalds/linux&lt;/a&gt; &lt;img src="https://img.shields.io/github/stars/torvalds/linux.svg" alt="Github stars" /&gt;
+ 
+ &lt;a class="anchor" href="#torvaldslinux-github-stars"&gt;#&lt;/a&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Linux kernel source tree&lt;/p&gt;
+&lt;h2 id="antirezredis-github-stars"&gt;
+ &lt;a href="https://github.com/antirez/redis"&gt;antirez/redis&lt;/a&gt; &lt;img src="https://img.shields.io/github/stars/antirez/redis.svg" alt="Github stars" /&gt;
+ 
+ &lt;a class="anchor" href="#antirezredis-github-stars"&gt;#&lt;/a&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+&lt;a href="http://redis.io"&gt;http://redis.io&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>

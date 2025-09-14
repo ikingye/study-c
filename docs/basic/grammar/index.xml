@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>语法 on C 学习笔记</title><link>https://kingye.me/study-c/docs/basic/grammar/</link><description>Recent content in 语法 on C 学习笔记</description><generator>Hugo</generator><language>en</language><atom:link href="https://kingye.me/study-c/docs/basic/grammar/index.xml" rel="self" type="application/rss+xml"/><item><title>与 C++ 的差异</title><link>https://kingye.me/study-c/docs/basic/grammar/vs-cpp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kingye.me/study-c/docs/basic/grammar/vs-cpp/</guid><description>&lt;h1 id="c-语言与-c-的差异">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>语法 on C 学习笔记</title><link>https://kingye.me/study-c/docs/basic/grammar/</link><description>Recent content in 语法 on C 学习笔记</description><generator>Hugo</generator><language>en</language><atom:link href="https://kingye.me/study-c/docs/basic/grammar/index.xml" rel="self" type="application/rss+xml"/><item><title>与 C++ 的差异</title><link>https://kingye.me/study-c/docs/basic/grammar/vs-cpp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kingye.me/study-c/docs/basic/grammar/vs-cpp/</guid><description>&lt;h1 id="c-语言与-c-的差异"&gt;
  C 语言与 C++ 的差异
- &lt;a class="anchor" href="#c-%e8%af%ad%e8%a8%80%e4%b8%8e-c-%e7%9a%84%e5%b7%ae%e5%bc%82">#&lt;/a>
-&lt;/h1>
-&lt;p>参考：&lt;a href="https://kingye.me/study-cpp/">C++ 学习笔记&lt;/a>&lt;/p></description></item></channel></rss>
+ 
+ &lt;a class="anchor" href="#c-%e8%af%ad%e8%a8%80%e4%b8%8e-c-%e7%9a%84%e5%b7%ae%e5%bc%82"&gt;#&lt;/a&gt;
+ 
+&lt;/h1&gt;
+&lt;p&gt;参考：&lt;a href="https://kingye.me/study-cpp/"&gt;C++ 学习笔记&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
